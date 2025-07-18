@@ -26,6 +26,17 @@
 - 🎨 **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - ⚙️ **Integrations**: Payment handling (via included scripts)
 
+### Project Structure
+├── admin/ # Admin dashboard & management pages
+├── assets/ # Images, CSS, JavaScript
+├── payment/ # Payment processing scripts
+├── index.php # Front-end homepage
+├── cart.php # Cart management
+├── checkout.php # Order processing
+├── product.php # Product details page
+├── registration.php # User signup
+└── DATABASE/ # Database schema and dump
+
 ---
 
 ## 🛠️ Installation & Setup
