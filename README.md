@@ -92,5 +92,3 @@ Feel free to ⭐️ the repo if it helps you, and share your enhancements!
 
 ---
 
-## 🧩 Project Structure
-
