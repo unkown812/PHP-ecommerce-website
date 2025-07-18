@@ -27,15 +27,11 @@
 - ⚙️ **Integrations**: Payment handling (via included scripts)
 
 ### Project Structure
-├── admin/ # Admin dashboard & management pages
-├── assets/ # Images, CSS, JavaScript
-├── payment/ # Payment processing scripts
-├── index.php # Front-end homepage
-├── cart.php # Cart management
-├── checkout.php # Order processing
-├── product.php # Product details page
-├── registration.php # User signup
-└── DATABASE/ # Database schema and dump
+├── admin/ # Admin dashboard & management pages <br>
+├── client/ # Payment processing scripts <br>
+├── index.php # Front-end homepage <br>
+├── style.css # Styles for the project <br>
+└── DATABASE # Database schema and dump <br>
 
 ---
 
